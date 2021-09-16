@@ -3,5 +3,24 @@
 }
 
 .color2{
-    color: green;
+    color: white
+}
+img{
+    width: 300px;
+}
+body{
+    
+    background:url("https://www.staynerd.com/wp-content/uploads/ispettore-gadget.jpg") ;
+    background-size: cover; 
+    
+
+}
+#root{
+    justify-content: space-between;
+    display: flex;
+    
+}
+button{
+    width: 100px;
+    height: 50px;
 }
